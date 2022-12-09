@@ -14,4 +14,4 @@ Devansh Goel (029362552).
 - Sprint 1 Folder Submission contains the ppt and twbx file.
 
 - Dataset 1 Folder contains the code for all sprints for dataset 1.
-- Dataset 2 Folder contains the code for all sprints for dataset 2.
+- Dataset 2 Folder contains the code for all sprints for dataset 2 and Streamlit Deployment code.
